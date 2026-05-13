@@ -1,6 +1,0 @@
-Metric,APSD_CU1,AQ_Predatoria1,ICU_Total1
-Accuracy,0.76,0.67,0.52
-Precision,0.74,0.64,0.54
-Recall,0.74,0.7,0.55
-F1-score,0.74,0.63,0.51
-AUC,0.78,0.71,0.69
